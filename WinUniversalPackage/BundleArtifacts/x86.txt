@@ -1,0 +1,2 @@
+MainPackage=D:\OneDrive\OneDrive - Swinburne University\Majors\SWE40006\Task 1\WinUniversalPackage\bin\x86\Debug\WinUniversalPackage_1.0.3.0_x86_Debug.msix
+SymbolPackage=D:\OneDrive\OneDrive - Swinburne University\Majors\SWE40006\Task 1\WinUniversalPackage\obj\x86\Debug\Symbols\WinUniversalPackage_1.0.3.0_x86_Debug.appxsym
